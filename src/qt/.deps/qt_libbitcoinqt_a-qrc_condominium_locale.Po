@@ -1,0 +1,2 @@
+qt/qt_libbitcoinqt_a-qrc_globalsmartasset_locale.o: \
+ qt/qrc_globalsmartasset_locale.cpp

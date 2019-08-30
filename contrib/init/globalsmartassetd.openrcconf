@@ -1,0 +1,26 @@
+# /etc/conf.d/globalsmartassetd: config file for /etc/init.d/globalsmartassetd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/globalsmartasset/globalsmartasset.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/globalsmartassetd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/globalsmartassetd.pid"
+
+# Where to write globalsmartassetd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/globalsmartassetd"
+
+# User and group to own globalsmartassetd process
+#BITCOIND_USER="globalsmartasset"
+#BITCOIND_GROUP="globalsmartasset"
+
+# Path to globalsmartassetd executable
+#BITCOIND_BIN="/usr/bin/globalsmartassetd"
+
+# Nice value to run globalsmartassetd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

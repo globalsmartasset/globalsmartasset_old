@@ -1,0 +1,55 @@
+compat/libbitcoin_util_a-strnlen.o: compat/strnlen.cpp \
+  config/globalsmartasset-config.h \
+  /root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstring \
+  /root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/string.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/cdefs.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_symbol_aliasing.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_posix_availability.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/machine/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/i386/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_pthread/_pthread_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/Availability.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/AvailabilityInternal.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_size_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_null.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_ssize_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/strings.h
+
+config/globalsmartasset-config.h:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstring:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/string.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/cdefs.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_posix_availability.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/machine/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/i386/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_pthread/_pthread_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/Availability.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/AvailabilityInternal.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_size_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_null.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_ssize_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/strings.h:

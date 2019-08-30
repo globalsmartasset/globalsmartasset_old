@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=globalsmartasset
+Comment=globalsmartasset P2P Cryptocurrency
+Comment[fr]=globalsmartasset, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=globalsmartasset, eşten eşe kriptografik sanal para birimi
+Exec=globalsmartasset-qt %u
+Terminal=false
+Type=Application
+Icon=globalsmartasset128
+MimeType=x-scheme-handler/globalsmartasset;
+Categories=Office;Finance;

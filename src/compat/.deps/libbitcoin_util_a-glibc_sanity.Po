@@ -1,0 +1,82 @@
+compat/libbitcoin_util_a-glibc_sanity.o: compat/glibc_sanity.cpp \
+  config/globalsmartasset-config.h \
+  /root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstddef \
+  /root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config \
+  /root/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/stddef.h \
+  /root/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/__stddef_max_align_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/select.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/appleapiopts.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/cdefs.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_symbol_aliasing.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_posix_availability.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/machine/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/i386/_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_pthread/_pthread_types.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_def.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_timespec.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_timeval.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_time_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_suseconds_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_sigset_t.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_setsize.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_set.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_clr.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_isset.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_zero.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_copy.h \
+  /root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_select.h
+
+config/globalsmartasset-config.h:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstddef:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/stddef.h:
+
+/root/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/__stddef_max_align_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/select.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/appleapiopts.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/cdefs.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_posix_availability.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/machine/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/i386/_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_pthread/_pthread_types.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_def.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_timespec.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_timeval.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_time_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_suseconds_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_sigset_t.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_setsize.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_set.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_clr.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_isset.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_zero.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_types/_fd_copy.h:
+
+/root/depends/SDKs/MacOSX10.11.sdk/usr/include/sys/_select.h:
